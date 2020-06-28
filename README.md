@@ -1,2 +1,2 @@
-# photosynthesis.github.io
+# ZuluScience.github.io
 An awesome photosynthesis simulation.
