@@ -23,7 +23,7 @@ let bubbles = [];
 let totalOxygen;
 function preload() {
   plant = loadImage('https://i.ibb.co/48WLjkz/plant.jpg');
-  lamp = loadImage('https://www.photobox.co.uk/my/photo/full?photo_id=503082164777');
+  lamp = loadImage('https://i.ibb.co/P566x1K/lamp.jpg');
 }
 function drawLamp(xPos) {
   push();
