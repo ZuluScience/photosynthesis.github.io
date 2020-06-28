@@ -154,6 +154,7 @@ function calculateRateOfPhot(intensity, concentration, wavelength, distance) {
   return rateOfPhot * 120;
 }
 function setup() {
+  frameRate(30);
   createCanvas(600, 600);
   restartButton = new Button(createVector(40, 40), 60, 30, 'RESTART', 11);   
   runButton = new Button(createVector(40, 80), 60, 30, 'GO', 11); 
