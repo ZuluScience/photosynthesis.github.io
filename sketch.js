@@ -22,9 +22,8 @@ let runButton;
 let bubbles = [];
 let totalOxygen;
 function preload() {
-  plant = loadImage('https://i.ibb.co/48WLjkz/plant.jpg
-© 2020 GitHub, Inc.');
-  lamp = loadImage('lamp.jpg');
+  plant = loadImage('https://i.ibb.co/48WLjkz/plant.jpg');
+  lamp = loadImage('https://www.photobox.co.uk/my/photo/full?photo_id=503082164777');
 }
 function drawLamp(xPos) {
   push();
